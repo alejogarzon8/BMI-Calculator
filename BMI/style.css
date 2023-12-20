@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bmi-calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+label, input, h1, h2, p {
+    margin: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+}
+
+#result {
+    display: none;
+}
